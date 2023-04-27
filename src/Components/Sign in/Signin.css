@@ -1,0 +1,17 @@
+
+.inp{
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+.mains{
+    width: 50%;
+    height: 400px;
+    padding: 50px ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(60, 220, 220);
+    border-radius: 10px;
+}

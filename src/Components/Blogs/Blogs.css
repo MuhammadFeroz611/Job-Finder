@@ -1,0 +1,19 @@
+.imge {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.p-link{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+  }
+  .p-link:hover{
+  color: #d82b04;
+  }
+  .butnn{
+    color: black;
+  }
+  .butnn:hover{
+  color: #d82b04;
+  }

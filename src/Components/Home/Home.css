@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+
+  .dbtn{
+    border: 1px solid white;
+    padding: 10px 10px;
+    border-radius: 50px;
+    margin: 0 5px;
+    cursor: pointer;
+    background-color: #f75b38;
+  }
+  .dbtn:hover{
+    background-color: #d82b04;
+    color: #ffffff;
+  }
+  .btnn{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50rem;
+    padding: 5px 10px;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(155, 156, 156);
+    text-decoration: none;
+  }
+  .btnnn:hover{
+    background-color: red;
+    color: #d82b04;
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+.textspan{
+  color: #d82b04;
+  font-size: 75px;
+  font-weight: 900;
+  font-family: 'Roboto', sans-serif;
+}
